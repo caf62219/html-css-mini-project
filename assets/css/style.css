@@ -14,6 +14,11 @@ header {
     text-align: center;
     background-color: gray;
     color:blue;
+
+header ul li {
+    display: inline-block;
+}
+
 }
 .form {
     background-color: lightblue;
