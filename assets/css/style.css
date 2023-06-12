@@ -1,0 +1,44 @@
+* {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', sans-serif;
+    display:block;
+    text-align: center;
+}
+body {
+    background-color: beige;
+}
+img {
+    position;relative;
+    margin:auto;
+}
+header {
+    text-align: center;
+    background-color: gray;
+    color:blue;
+}
+.form {
+    background-color: lightblue;
+    color: blue;
+    font-size: 20pt;
+}
+
+footer {
+    background-color: lightgreen;
+    color:blue;
+}
+
+#fname {
+    position: relative;
+    margin: auto;
+}
+#lname {
+    position: relative;
+    margin: auto;
+}
+#email {
+    position: relative;
+    margin: auto;
+}
+#submit {
+    position:relative;
+    margin: auto;
+}
